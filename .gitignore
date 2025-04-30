@@ -1,0 +1,13 @@
+# Datasets and runs
+cellwaldo/data/*
+realwaldo/data/*
+runs/
+
+# OS / editor noise
+.DS_Store
+*.pyc
+__pycache__/
+
+# env
+env/
+.venv/

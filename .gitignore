@@ -1,6 +1,5 @@
 # Datasets and runs
 cellwaldo/data/*
-realwaldo/data/*
 runs/
 
 # OS / editor noise

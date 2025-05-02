@@ -1,12 +1,5 @@
-# Datasets and runs
-cellwaldo/data/*
-runs/
-
-# OS / editor noise
-.DS_Store
+data/histology_backgrounds/*
+data/waldos/annotations/*
+data/waldos/images/*
 *.pyc
-__pycache__/
-
-# env
-env/
-.venv/
+__pycache__

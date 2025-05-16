@@ -42,7 +42,8 @@ Create a detection model that **outperforms traditional and early deep learning 
 
 ## 🖼️ Results (Sample)
 
-![Waldo Detected](./example_outputs/waldo_example.jpg)
+![Waldo Detected](./data/val_batch1_pred.jpg)
+![Waldo mAR](./data/PR_curve.png)
 
 ## 🛠️ Tech Stack
 

@@ -19,7 +19,7 @@ git clone https://github.com/SepehrAkbari/here-is-waldo.git
 cd here-is-waldo
 
 python -m venv venv
-source venv/bin/activate  # Windows: `venv\Scripts\activate`
+source venv/bin/activate
 pip install -r requirements.txt
 cd src
 ```
